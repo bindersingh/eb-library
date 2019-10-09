@@ -1,6 +1,6 @@
 {
   "name": "electron-autoupdate-example",
-  "version": "1.3",
+  "version": "1.4",
   "main": "main.js",
   "description": "electron autoupdate example project",
   "author": "Matt Haggard",
