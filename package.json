@@ -5,7 +5,7 @@
   "description": "electron autoupdate example project",
   "author": "Matt Haggard",
   "devDependencies": {
-    "electron": "^1.4.15",
+    "electron": "^7.2.4",
     "electron-builder": "^12.3.1"
   },
   "dependencies": {
